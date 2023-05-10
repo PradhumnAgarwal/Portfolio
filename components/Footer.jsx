@@ -20,7 +20,7 @@ const Footer = () => (
           Check My Resume
         </h4>
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]">
-          <a href="./resume.pdf"><img src="./headset.svg" alt="" /></a>
+          <a href="./resume.pdf">➤</a>
         </button>
       </div>
 
