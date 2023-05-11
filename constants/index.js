@@ -1,3 +1,6 @@
+import { DiFirebase, DiReact } from "react-icons/di"
+import { BiHardHat } from "react-icons/bi"
+
 export const exploreWorlds = [
   {
     id: 'world-1',
@@ -31,10 +34,27 @@ export const exploreWorlds = [
   },
 ];
 
+// export const startingFeatures = [
+//   'Frontend technologies like ReactJS, NextJS, Tailwind CSS, Material UI etc. ',
+//   'Backend and Databases like NodeJs, MongoDB, PostgresSQL, Firebase. ',
+//   'Web-3 technologies like Hardhat, Goerli, IPFS etc.',
+// ];
+
 export const startingFeatures = [
-  'Frontend technologies like ReactJS, NextJS, Tailwind CSS, Material UI etc. ',
-  'Backend and Databases like NodeJs, MongoDB, PostgresSQL, Firebase. ',
-  'Web-3 technologies like Hardhat, Goerli, IPFS etc.',
+  {
+    number: <DiFirebase size='3rem' />,
+    text: 'Frontend technologies like ReactJS, NextJS, Tailwind CSS, Material UI etc. ',
+  },
+  {
+    number: <DiReact size='3rem' />,
+    text: 'Backend and Databases like NodeJs, MongoDB, PostgresSQL, Firebase. ',
+  },
+  {
+    number: <BiHardHat size='3rem' />,
+    text: 'Web-3 technologies like Hardhat, Goerli, IPFS etc.',
+  },
+
+
 ];
 
 
