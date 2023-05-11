@@ -42,11 +42,11 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   {
-    number: <DiFirebase size='3rem' />,
+    number: <DiReact size='3rem' />,
     text: 'Frontend technologies like ReactJS, NextJS, Tailwind CSS, Material UI etc. ',
   },
   {
-    number: <DiReact size='3rem' />,
+    number: <DiFirebase size='3rem' />,
     text: 'Backend and Databases like NodeJs, MongoDB, PostgresSQL, Firebase. ',
   },
   {
