@@ -17,8 +17,8 @@ export const exploreWorlds = [
   {
     id: 'world-3',
     imgUrl: '/planet-3.png',
-    title: 'Food Ordering Website',
-    link: 'https://github.com/PradhumnAgarwal/Sizzle'
+    title: 'Terminal Portfolio',
+    link: 'https://github.com/PradhumnAgarwal/terminal-portfolio'
   },
   {
     id: 'world-4',
