@@ -18,7 +18,7 @@ export const exploreWorlds = [
     id: 'world-3',
     imgUrl: '/planet-3.png',
     title: 'Terminal Portfolio',
-    link: 'https://github.com/PradhumnAgarwal/terminal-portfolio'
+    link: 'https://terminal-portfolio-neon.vercel.app/'
   },
   {
     id: 'world-4',
