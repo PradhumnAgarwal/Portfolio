@@ -22,7 +22,7 @@ export const exploreWorlds = [
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-4.png',
+    imgUrl: '/planet-4.jpg',
     title: 'Car Showcase',
     link: 'https://car-show-lake.vercel.app/'
   },
