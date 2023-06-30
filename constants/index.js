@@ -23,8 +23,8 @@ export const exploreWorlds = [
   {
     id: 'world-4',
     imgUrl: '/planet-4.png',
-    title: 'Decentralised Drive',
-    link: 'https://github.com/PradhumnAgarwal/DeDrive'
+    title: 'Car Showcase',
+    link: 'https://car-show-lake.vercel.app/'
   },
   {
     id: 'world-5',
